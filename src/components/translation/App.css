@@ -1,0 +1,81 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.chat-box {
+  width: 900px; /* Adjust width as needed */
+  height: 900px; /* Adjust height as needed */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column; /* Stack elements vertically */
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Space between input and buttons */
+  padding: 10px;
+  margin-top: auto; /* Push input container to the bottom */
+}
+
+.message-list {
+  padding: 10px;
+  overflow-y: auto;
+}
+
+.message {
+  margin-bottom: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: rgb(255, 255, 255); /* Set text color to white */
+}
+
+.message.user {
+  background-color: #27424d;
+}
+
+.message.assistant {
+  background-color: #f0f0f0;
+}
+
+.typing-indicator {
+  padding: 5px 10px;
+  font-style: italic;
+  color: white; /* Set text color to white */
+}
+
+
+
+.input-container input[type="text"] {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 10px;
+  color: white; /* Set text color to white */
+  background-color: #333; /* Set input background color */
+}
+
+.input-container button {
+  padding: 8px 15px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 5px; /* Add margin between buttons */
+}
+
+.input-container button:last-child {
+  margin-right: 0; /* Remove margin from the last button */
+}
+
+
+.input-container button:hover {
+  background-color: #0056b3;
+}

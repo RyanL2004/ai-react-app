@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "translations": {
+      "$translationId": {
+        ".read": "auth.uid != null",
+        ".write": "auth.uid != null && request.auth.uid == auth.uid"
+      }
+    }
+  }
+}
