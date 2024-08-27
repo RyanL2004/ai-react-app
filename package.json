@@ -1,5 +1,5 @@
 {
-  "homepage": "https://RyanL2004.github.io/react-app",
+  "homepage": ".",
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +13,7 @@
     "@testing-library/user-event": "^13.5.0",
     "antd": "^5.17.0",
     "axios": "^1.7.5",
+    "dotenv": "^16.4.5",
     "firebase": "^10.7.0",
     "microsoft-cognitiveservices-speech-sdk": "^1.33.1",
     "openai": "^4.20.1",
