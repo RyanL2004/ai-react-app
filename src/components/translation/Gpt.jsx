@@ -4,7 +4,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import './App.css';
 import SpeechToText from './SpeechToText'; // Import the SpeechToText component
 
-const API_KEY = "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";
+const API_KEY = process.env.REACT_APP_OPENAI_API_KEY;
 
 // Prompts to determine ChatGPT functionality
 const systemMessage = {
