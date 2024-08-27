@@ -2,7 +2,7 @@
   "name": "react-app",
   "version": "0.1.0",
   "homepage": "https://RyanL2004.github.io/ai-react-app",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.17.12",
     "@chatscope/chat-ui-kit-react": "^2.0.3",
