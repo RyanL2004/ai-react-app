@@ -12,7 +12,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "antd": "^5.17.0",
-    "axios": "^1.6.2",
+    "axios": "^1.7.5",
     "firebase": "^10.7.0",
     "microsoft-cognitiveservices-speech-sdk": "^1.33.1",
     "openai": "^4.20.1",
