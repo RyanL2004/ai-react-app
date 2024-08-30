@@ -1,6 +1,6 @@
-# Fine-Tuned GPT Translation Model app with JavaScript/React and C#/ASP.NET
+# Developed a GPT3.5 Turbo Translation SaaS with JavaScript/React and C#/ASP.NET
 
-## A Fully Functional SaaS GPT that provides humanized context Aware Translations
+## A Fully Functional SaaS GPT that provides humanized context Aware Translations.
 
 Successfully deployed a fully functional language translation application with advanced AI capabilities that was built along with UWE Bristol,
 facilitating seamless communication across language barriers. Enhanced user accessibility with speechto-text and text-to-speech functionalities, catering to users with disabilities.
