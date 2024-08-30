@@ -17,7 +17,7 @@ https://vimeo.com/1004595680?share=copy
 ## Project Poster:
 ![Screenshot 2024-08-30 201840](https://github.com/user-attachments/assets/ce3cff32-9343-4575-9db9-72642546cfe0)
 ## UWE Bristol App Dev Contract
-[UWE Contract.docx](https://github.com/user-attachments/files/16821340/UWE.Contract.docx)
+![Screenshot 2024-08-30 202235](https://github.com/user-attachments/assets/6142aafc-3ab4-4a65-878d-70d809432f89)
 
 
 
