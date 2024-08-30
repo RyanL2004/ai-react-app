@@ -14,6 +14,12 @@ facilitating seamless communication across language barriers. Enhanced user acce
 
 ## Full Video Presentation and Live Demonstration:
 https://vimeo.com/1004595680?share=copy
+## Project Poster:
+[Project POSTER.pptx](https://github.com/user-attachments/files/16821339/Project.POSTER.pptx)
+## UWE Bristol App Dev Contract
+[UWE Contract.docx](https://github.com/user-attachments/files/16821340/UWE.Contract.docx)
+
+
 
 ### Getting Started with Create React App
 
