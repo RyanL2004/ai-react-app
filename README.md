@@ -1,8 +1,26 @@
-# Getting Started with Create React App
+# Fine-Tuned GPT Translation Model app with JavaScript/React and C#/ASP.NET
+
+## A Fully Functional SaaS GPT that provides humanized context Aware Translations
+
+Successfully deployed a fully functional language translation application with advanced AI capabilities that was built along with UWE Bristol,
+facilitating seamless communication across language barriers. Enhanced user accessibility with speechto-text and text-to-speech functionalities, catering to users with disabilities.
+
+- Developed a GPT language translation SaaS,
+- Fine-Tuned an advanced AI Turbo model for precise and context aware translations between French and English.
+- Frontend development with JavaScript/React.js for a dynamic user interface.
+- Integrated Firebase for user authentication and Okta for identity management.
+- Implemented Azure Cognitive Services for Speech-To-Text and Text-To Speech functionalities.
+- Designed and implemented a scalable API and background workers for managing prompts using C#,ASP.NET framework with the MVC Design Pattern.
+- Achieved high levels of security and data protection through Firebase and Okta integration, ensuring user privacy and compliance with regulatory standards.
+
+Full Video Presentation link below:
+
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
