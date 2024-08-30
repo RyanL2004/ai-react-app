@@ -3,7 +3,7 @@
 ## A Fully Functional SaaS GPT that provides humanized context Aware Translations.
 
 Successfully deployed a fully functional language translation application with advanced AI capabilities that was built along with UWE Bristol,
-facilitating seamless communication across language barriers. Enhanced user accessibility with speechto-text and text-to-speech functionalities, catering to users with disabilities.
+facilitating seamless communication across language barriers. Enhanced user accessibility with speech-to-text and text-to-speech functionalities, catering to users with disabilities.
 
 - Fine-Tuned an advanced AI Turbo model for precise and context aware translations between French and English.
 - Frontend development with JavaScript/React.js for a dynamic user interface.
