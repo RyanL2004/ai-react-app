@@ -12,7 +12,8 @@ facilitating seamless communication across language barriers. Enhanced user acce
 - Designed and implemented a scalable API and background workers for managing prompts using C#,ASP.NET framework with the MVC Design Pattern.
 - Achieved high levels of security and data protection through Firebase and Okta integration, ensuring user privacy and compliance with regulatory standards.
 
-Full Video Presentation link below:
+## Full Video Presentation:
+<video controls src="Video Presentation.mp4" title="Title"></video>
 
 
 ### Getting Started with Create React App
