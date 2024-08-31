@@ -13,15 +13,20 @@ facilitating seamless communication across language barriers. Enhanced user acce
 - Achieved high levels of security and data protection through Firebase and Okta integration, ensuring user privacy and compliance with regulatory standards.
 
 ## Full Video Presentation and Live Demonstration:
+
 https://vimeo.com/1004595680?share=copy
+
 ## Link to the Research Paper:
+
 [ResearchPaper.pdf](https://github.com/user-attachments/files/16824493/ResearchPaper.pdf)
+
 ## Project Poster:
+
 ![Screenshot 2024-08-30 201840](https://github.com/user-attachments/assets/ce3cff32-9343-4575-9db9-72642546cfe0)
+
 ## UWE Bristol App Dev Contract
+
 ![Screenshot 2024-08-30 202235](https://github.com/user-attachments/assets/6142aafc-3ab4-4a65-878d-70d809432f89)
-
-
 
 ### Getting Started with Create React App
 
