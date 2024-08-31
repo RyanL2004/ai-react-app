@@ -15,7 +15,7 @@ facilitating seamless communication across language barriers. Enhanced user acce
 ## Full Video Presentation and Live Demonstration:
 https://vimeo.com/1004595680?share=copy
 ## Link to the Research Paper:
-https://github.com/user-attachments/files/16824493/ResearchPaper.pdf
+[ResearchPaper.pdf](https://github.com/user-attachments/files/16824493/ResearchPaper.pdf)
 ## Project Poster:
 ![Screenshot 2024-08-30 201840](https://github.com/user-attachments/assets/ce3cff32-9343-4575-9db9-72642546cfe0)
 ## UWE Bristol App Dev Contract
