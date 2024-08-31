@@ -7,7 +7,7 @@ facilitating seamless communication across language barriers. Enhanced user acce
 
 - Fine-Tuned an advanced AI Turbo model for precise and context aware translations between French and English.
 - Frontend development with JavaScript/React.js for a dynamic user interface.
-- Integrated Firebase for user authentication and Okta for identity management.
+- Integrated Firebase for user authentication and Okta for IAM
 - Implemented Azure Cognitive Services for Speech-To-Text and Text-To Speech functionalities.
 - Designed and implemented a scalable API and background workers for managing prompts using C#,ASP.NET framework with the MVC Design Pattern.
 - Achieved high levels of security and data protection through Firebase and Okta integration, ensuring user privacy and compliance with regulatory standards.
